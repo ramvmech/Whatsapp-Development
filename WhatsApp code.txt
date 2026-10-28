@@ -7,3 +7,4 @@ This is WhatsApp code
 5. Hiding the Last Seen 
 6. Adding the Audio call feature 
 7. Adding the video call feature 
+8. Adding status so that user can play Train games in status 
