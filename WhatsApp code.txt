@@ -3,7 +3,7 @@ This is WhatsApp code
 1. Profile Page Code 
 2. Chat Screen Code 
 3. Last Seen Code 
-4. Attachements Email Audio and Video Code 
+4. Attachements Email Audio and Video and Documents  Code 
 5. Hiding the Last Seen 
 6. Adding the Audio call feature 
 7. Adding the video call feature 
